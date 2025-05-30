@@ -1,5 +1,5 @@
     import { Link } from 'react-scroll';
-    import akanksha from "../assets/images/akanksha.jpeg";
+    import akanksha from "../assets/images/akanksha2.jpg";
     const Hero = () => {
     return (
         <section id="home" className="hero">
